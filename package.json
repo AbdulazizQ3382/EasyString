@@ -1,0 +1,43 @@
+{
+  "name": "easy-string",
+  "version": "1.0.0",
+  "description": "A simple, lightweight, and fast JavaScript library for string manipulation.",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "mix watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdulazizQ3382/EasyString.git"
+  },
+  "keywords": [
+    "javascript",
+    "string",
+    "easy-string",
+    "engine"
+  ],
+  "author": {
+    "name": "Abdulaziz Qanam"
+  },
+  "contributors": [
+    {
+      "name": "Nawaf KL",
+      "email": "nawafinity@gmail.com",
+      "url": "https://github.com/nawafinity"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbdulazizQ3382/EasyString/issues"
+  },
+  "homepage": "https://github.com/AbdulazizQ3382/EasyString#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^17.0.2",
+    "@commitlint/config-conventional": "^17.0.2",
+    "husky": "^8.0.1",
+    "laravel-mix": "^6.0.48",
+    "ts-loader": "^9.3.0",
+    "typescript": "^4.7.3"
+  }
+}

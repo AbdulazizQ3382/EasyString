@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EasyString Browser Example</title>
+</head>
+<body>
+
+<div id="case"></div>
+<script src="../../bundle/easy-string.js"></script>
+<script>
+    let myTemplate = `Hi my name is @var(name) and I love @var(interest)`;
+    if (container = document.querySelector("#case")) {
+        container.innerHTML = window.EasyString(myTemplate);
+    }
+</script>
+</body>
+</html>
