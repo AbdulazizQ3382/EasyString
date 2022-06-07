@@ -16,8 +16,7 @@ We provide an easy steps to start developing and contributing in this project.
 $ npm install -g yarn
 ```
 4. Run `yarn install` command.
-5. Then `yarn dev` this command gonna take care for any change that you made.
-<img src="https://c.tenor.com/tc5PwlzwYi4AAAAi/anime-dance.gif" width="24px"/>
+5. Then `yarn dev` this command gonna take care for any change that you made. ![977775191201558528](https://user-images.githubusercontent.com/50952092/172502228-8c29bf70-b73d-4aec-a262-df6fbbaa6a19.gif)
 6. Your commit message should follow the following pattern
     - `chore:` your commit message.
     - `fix(issue_id):` your commit message.
@@ -35,4 +34,4 @@ Please feel free to add any useful resource.
 
 1. [A quick and simple guide to JavaScript Regular Expressions](https://www.freecodecamp.org/news/a-quick-and-simple-guide-to-javascript-regular-expressions-48b46a68df29/)
 ___
-<img src="https://api.saudimade.sa/uploads/logo_english_8beed26c44.svg" width="120px"/>
+<img src="https://user-images.githubusercontent.com/50952092/172501551-11485ee9-67d1-4d54-bfdb-eac47b73982c.png" style="max-width: 120px !important" alt="Made in Saudi Arabia"/>
